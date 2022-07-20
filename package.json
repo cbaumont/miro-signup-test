@@ -1,0 +1,18 @@
+{
+  "name": "miro-signup-test",
+  "version": "1.0.0",
+  "description": "Miro app sign up test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cypress",
+    "testing"
+  ],
+  "author": "Carlos Baumont",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}

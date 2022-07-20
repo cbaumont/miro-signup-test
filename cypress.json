@@ -1,0 +1,7 @@
+{
+    "baseUrl": "https://miro.com",
+    "video": false,
+    "chromeWebSecurity": false,
+    "watchForFileChanges": false,
+    "retries": 0
+}
